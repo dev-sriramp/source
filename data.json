@@ -1,6 +1,6 @@
 {
   "alphabet": {
-      "picture":["Airplane.gif","apple.gif", "Alphabet.gif", "Alphabet.gif"],
-      "audio":["Airplane.mp3","apple.mp3", "Orange.mp3", "Orange.mp3"]
+      "picture":["Apple.png","Ball.png", "Carrot.png", "Door.png","Earth.png"],
+      "audio":["Apple.mp3","Ball.mp3", "Carrot.mp3", "Door.mp3","Earth.mp3"]
   }
 }
