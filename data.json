@@ -1,6 +1,6 @@
 {
   "alphabet": {
-      "picture":["Apple.png","Ball.png", "Carrot.png", "Door.png","Earth.png"],
-      "audio":["Apple.mp3","Ball.mp3", "Carrot.mp3", "Door.mp3","Earth.mp3"]
-  }
-}
+        "picture":["Apple.png","Ball.png", "Cat.png", "Dog.png","Elephant.png","Fish.png","Goat.png","Horse.png","Icecream.png","Jug.png","Kangaroo.png","Lotus.png","Mango.png","Nip.png","Owl.png","Parrot.png","Queen.png","Rabbit.png","Sun.png","Tiger.png","Umbrella.png","Van.png","Watch.png","Xmasstree.png","Yolk.png","Zebra.png"],
+              "audio":["Apple.mp3","Ball.mp3", "Carrot.mp3", "Door.mp3","Earth.mp3"]
+                }
+                }
